@@ -1,0 +1,7 @@
+plotly_express
+pandas
+dash_core_components
+dash
+dash_html_components
+plotly
+flask
